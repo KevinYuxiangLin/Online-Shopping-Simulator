@@ -6,7 +6,7 @@ Created in June 2017, planning to update soon this year, 2020.
 To achieve a fully working program involving all the major concepts covered in a Java course, and to learn how to apply it to something that can be used in everyday life and expand upon it.
 To increase my knowledge on the new concepts learned such as I/O, inheritance, arrays, OOP,  and Java Swing GUI.
 
-#### User Guide
+### User Guide
 User browses through a catalogue of items.
 When program is first launched, it will default to the 'Home Page'.
 
